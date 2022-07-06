@@ -41,3 +41,22 @@ a {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
+
+.download {
+    background-image: linear-gradient(red, orange);
+}
+
+#lekha {
+    margin-right: 5px;
+}
+
+#lekha-one {
+    margin-right: 5px;
+}
+
+.bg {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    margin-top: 10px;
+}
